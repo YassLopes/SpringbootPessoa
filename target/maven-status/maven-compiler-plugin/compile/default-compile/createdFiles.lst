@@ -1,0 +1,4 @@
+com\exemplo\config\PessoaConfig.class
+com\exemplo\MeuProjetoSpringbootApplication.class
+com\exemplo\controller\PessoaController.class
+com\exemplo\model\Pessoa.class
